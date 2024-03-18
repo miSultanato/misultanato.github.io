@@ -1,3 +1,9 @@
+---
+page:
+  headHtml: |
+    <snippet var="js.highlightjs" />
+slug: bookmarks
+---
 # Bookmarks de juegos.
 
 ## Juegos
