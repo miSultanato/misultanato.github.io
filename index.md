@@ -1,5 +1,7 @@
 # Las notas de elSultan
 
+// TODO
+
 EN CONSTRUCCION xD
 
 Este es mi rinconcito donde ir guardando mis notas, apuntes y cosas varias.
