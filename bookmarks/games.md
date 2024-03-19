@@ -1,5 +1,6 @@
 ---
 title: Bookmarks de juegos
+short-title: Juegos
 tags: [bookmarks, games]
 date: 2024-03-19
 page:
