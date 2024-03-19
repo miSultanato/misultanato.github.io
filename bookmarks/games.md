@@ -7,9 +7,7 @@ page:
   description: Enlaces con tematica relacionada a los videojuegos.
 ---
 
-# Bookmarks de juegos.
-
-## Juegos
+# :video_game: Bookmarks de juegos.
 
 ### Utilidades varias
 
