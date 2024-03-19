@@ -1,3 +1,11 @@
+---
+title: Bookmarks de juegos
+tags: [bookmarks, games]
+date: 2024-03-19
+page:
+  description: Enlaces con tematica relacionada a los videojuegos.
+---
+
 # Bookmarks de juegos.
 
 ## Juegos
