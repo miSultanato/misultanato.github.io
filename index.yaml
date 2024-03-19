@@ -3,13 +3,16 @@
 
 page:
   siteTitle: Las notas de elSultan
+  siteName: miSultanato
+  headHtml: |
+    <snippet var="js.highlightjs" />
 
 template:
-  theme: blue # red
+  theme: red
 
   # You can add your own variables here, like editBaseUrl.
   # See after-note.tpl to see where editBaseUrl gets used.
-  editBaseUrl: https://github.com/srid/emanote-template/edit/master # TODO cambiar por https://github.com/miSultanato/miSultanato.github.io/
+  editBaseUrl: https://github.com/miSultanato/misultanato.github.io/tree/master # https://github.com/srid/emanote-template/edit/master
 
   # Uncomment this to get neuron-style pages
   # name: /templates/layouts/note
