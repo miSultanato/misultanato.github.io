@@ -1,7 +1,7 @@
 ---
 template:
   sidebar:
-    collapsed: false
+    collapsed: true
 ---
 
 # :link: Bookmarks
