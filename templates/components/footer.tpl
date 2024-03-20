@@ -20,8 +20,8 @@
         </a>
     </div>
     <div>
-        <a href="/" title="Generado con Emanote ${ema:version}">
-            <img class="${iconClass}" src="/images/favicon.ico" />
+        <a href="https://emanote.srid.ca/" title="Generado con Emanote ${ema:version}">
+            <img class="${iconClass}" src="https://emanote.srid.ca/_emanote-static/emanote-logo.svg" />
         </a>
     </div>
     <div>
