@@ -21,7 +21,7 @@
     </div>
     <div>
         <a href="https://emanote.srid.ca/" title="Generado con Emanote ${ema:version}">
-            <img class="${iconClass}" src="https://emanote.srid.ca/_emanote-static/emanote-logo.svg" />
+            <img class="${iconClass}" src="/images/emanote-logo.svg" />
         </a>
     </div>
     <div>
