@@ -10,7 +10,7 @@ page:
 template:
   theme: red
   uptree: 
-    enable: true
+    enable: false # TODO true para vista arbol superior
 
   # You can add your own variables here, like editBaseUrl.
   # See after-note.tpl to see where editBaseUrl gets used.
@@ -23,7 +23,7 @@ template:
   #     containerClass: container mx-auto max-w-screen-lg
 
   sidebar:
-    collapsed: true
+    collapsed: false
 
   # If you are hosting on GitLab Pages, you may want to remove this.
   urlStrategy: pretty
