@@ -1,10 +1,12 @@
 ---
 template:
   sidebar:
-    collapsed: false
+    collapsed: true
 ---
 
-# Blog
+# :notebook: Blog
+
+Estos son los últimos posts del #blog
 
 ```query
 path:./*
