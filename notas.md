@@ -1,7 +1,7 @@
 ---
 template:
   sidebar:
-    collapsed: false
+    collapsed: true
 ---
 
 # :memo: Notas
