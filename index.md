@@ -1,13 +1,6 @@
 # Las notas de elSultan
 
-<div style="text-align: center;">
 
-<img width="300" src="images/elSultan.mini.jpg" alt="elSultan">
-
-</div>
-
-<br>
-<br>
 
 Este es mi rinconcito donde ir guardando mis notas, apuntes y cosas varias.
 Si quieres ponerte en contacto puedes hacerlo:
