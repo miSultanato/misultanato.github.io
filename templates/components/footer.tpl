@@ -20,7 +20,7 @@
         </a>
     </div>
     <div>
-        <a href="https://emanote.srid.ca/" title="Generado con Emanote ${ema:version}">
+        <a href="https://emanote.srid.ca" title="Generado con Emanote ${ema:version}">
             <img class="${iconClass}" src="/images/emanote-logo.svg" />
         </a>
     </div>
@@ -46,10 +46,10 @@
 </footer>
 <footer class="flex m-3 items-center justify-center text-xs">
     <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
-        <a property="dct:title" rel="cc:attributionURL" href="https://misultanato.github.io/">Las notas de elSultan</a>
+        <a property="dct:title" rel="cc:attributionURL" href="https://misultanato.github.io">Las notas de elSultan</a>
         by
         <a rel="cc:attributionURL dct:creator" property="cc:attributionName"
-            href="https://misultanato.github.io/">elSultan</a>
+            href="https://misultanato.github.io">elSultan</a>
         is licensed under
         <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank"
             rel="license noopener noreferrer" style="display:inline-block;">

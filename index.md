@@ -1,7 +1,9 @@
 # Las notas de elSultan
 
 <div style="text-align: center;">
+
 <img width="300" src="images/elSultan.mini.jpg" alt="elSultan">
+
 </div>
 
 <br>
