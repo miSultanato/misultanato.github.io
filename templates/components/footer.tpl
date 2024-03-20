@@ -44,6 +44,8 @@
         </a>
     </div>
 </footer>
+
+[]: # (
 <footer class="flex m-3 items-center justify-center text-xs">
     <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
         <a property="dct:title" rel="cc:attributionURL" href="https://misultanato.github.io">Las notas de elSultan</a>
@@ -68,3 +70,4 @@
         </a>
     </p>
 </footer>
+)
