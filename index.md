@@ -4,7 +4,12 @@
 <img src="images/elSultan.mini.jpg" alt="elSultan" title="elSultan" width="200" height="200">
 </p>
 <br>
+
 Este es mi rinconcito donde ir guardando mis notas, apuntes y cosas varias.
+
+De momento tengo [[bookmarks]], [[notas]] y zona de [[blog]].
+
 Si quieres ponerte en contacto puedes hacerlo:
-- en el [Fediverso](https://gotosocial.almacenero.uk/@artbol)
-- por :mailbox_with_no_mail: [correo](mailto:elsultan@posteo.net).
+
+<li> en el <a href="https://gotosocial.almacenero.uk/@artbol">Fediverso</a>
+<li> por <a href="mailto:elsultan@posteo.net">correo</a>.
