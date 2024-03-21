@@ -11,6 +11,6 @@ Este es el lugar donde irán apareciendo las notas que vaya subiendo sobre difer
 <br>
 #NAS #Linux #self-hosting #privacy
 
-```query
+```query {.timeline}
 path:./*
 ```

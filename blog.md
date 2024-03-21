@@ -8,6 +8,6 @@ template:
 
 Estos son los últimos posts del #blog
 
-```query
+```query {.timeline}
 path:./*
 ```

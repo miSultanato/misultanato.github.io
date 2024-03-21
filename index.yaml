@@ -29,7 +29,7 @@ template:
   urlStrategy: pretty
   iconUrl: ${ema:homeUrl}/images/favicon.ico
 
-  # Feed
-  feed:
-  siteUrl: https://misultanato.github.io
+  # TODO add feed RSS
+  # feed:
+  # siteUrl: https://misultanato.github.io
   
