@@ -1,7 +1,3 @@
----
-feed:
-  enable: true
----
 # Las notas de elSultan
 
 <p align="center">
