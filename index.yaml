@@ -4,6 +4,7 @@
 page:
   siteTitle: Las notas de elSultan
   siteName: miSultanato
+  siteUrl: https://misultanato.github.io
   headHtml: |
     <snippet var="js.highlightjs" />
 
@@ -28,8 +29,4 @@ template:
   # If you are hosting on GitLab Pages, you may want to remove this.
   urlStrategy: pretty
   iconUrl: ${ema:homeUrl}/images/favicon.ico
-
-  # TODO add feed RSS
-  # feed:
-  # siteUrl: https://misultanato.github.io
   
