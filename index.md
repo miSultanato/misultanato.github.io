@@ -11,5 +11,5 @@ De momento tengo [[bookmarks]], [[notas]] y zona de [[blog]].
 
 Si quieres ponerte en contacto puedes hacerlo:
 
-<li> en el <a href="https://gotosocial.almacenero.uk/@artbol">Fediverso</a>
-<li> por <a href="mailto:elsultan@posteo.net">correo</a>.
+<li> en el <a href="https://gotosocial.almacenero.uk/@artbol" style="color:blue">Fediverso.</a>
+<li> por <a href="mailto:elsultan@posteo.net" style="color:blue">correo.</a>
