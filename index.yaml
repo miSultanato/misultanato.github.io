@@ -7,8 +7,6 @@ page:
   headHtml: |
     <snippet var="js.highlightjs" />
 
-page.siteUrl: https://misultanato.github.io
-
 template:
   theme: red
   uptree: 
