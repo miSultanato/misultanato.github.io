@@ -12,3 +12,5 @@ page:
   <img src="/imagenes/Alien(1979)Moebius.jpg" alt="Alien" style="width:400px; align="center">
 </a> 
 </p>
+
+Dibujo descubierto gracias a [TheSpaceshipper](https://socel.net/@TheSpaceshipper). Una de la muchas joyas que nos dejó el proyecto de #Dune de Alejandro Jodorowsky.
