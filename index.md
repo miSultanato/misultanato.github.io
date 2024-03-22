@@ -7,7 +7,7 @@
 
 Este es mi rinconcito donde ir guardando mis notas, apuntes y cosas varias.
 
-De momento tengo [[bookmarks]], [[notas]] y zona de [[blog]].
+De momento tengo [[bookmarks]], [[notas]], [[imagenes]] y zona de [[blog]].
 
 Si quieres ponerte en contacto puedes hacerlo:
 
