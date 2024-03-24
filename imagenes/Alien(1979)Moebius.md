@@ -14,5 +14,7 @@ page:
 </p>
 
 <p>
-Dibujo descubierto gracias a [TheSpaceshipper](https://socel.net/@TheSpaceshipper). Una de la muchas joyas que nos dejó el proyecto de #Dune de Alejandro Jodorowsky.
+Dibujo descubierto gracias a <a href="https://socel.net/@TheSpaceshipper">TheSpaceshipper</a>.
+
+Una de la muchas joyas que nos dejó el proyecto de #Dune de Alejandro Jodorowsky.
 </p>
