@@ -6,7 +6,7 @@
 <br>
 
 
-![elSultan](/images/elSultan.mini.jpg){ width=50% }{: style="float:center"}
+![elSultan](/images/elSultan.mini.jpg){ width=200px height=200px }
 
 Este es mi rinconcito donde ir guardando mis notas, apuntes y cosas varias.
 
