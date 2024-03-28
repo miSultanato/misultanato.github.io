@@ -1,8 +1,7 @@
 # Las notas de elSultan
 
-<div style="text-align: center;">
-![elSultan](images/elSultan.200.jpg)
-</div>
+<h2 style="text-align: center;">![elSultan](images/elSultan.200.jpg)</h2>
+
 
 Este es mi rinconcito donde ir guardando mis notas, apuntes y cosas varias.
 
