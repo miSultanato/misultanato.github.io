@@ -1,6 +1,6 @@
 # Las notas de elSultan
 
-<div align="center">
+<div style="text-align: center;">
 ![elSultan](images/elSultan.200.jpg)
 </div>
 
